@@ -11,5 +11,6 @@ uporabljeni komponenti:
 
 Ta projekt je bil poučen, izboljšala bi ga lahko z tem, da bi dodala vezave za več krmilnikov kot Arduino Uno, ter več kod kot le C++. Ta vezava bi bila tudi veliko boljša, če bi imela LED luči za signaliziranje, kdaj je dvigalo na vrhu in kdaj je na dnu. Vezju todi manjka luč, ki prikazuje nepravilno delovanje dvigala oziroma prikazuje, da je dvigalo pokvarjeno.
 video:  https://youtu.be/g4HhjNA-FrU
+![image](https://user-images.githubusercontent.com/130037393/232734512-02a6e5b0-91ba-4980-920a-6f03ded5df5e.png)
 
 
